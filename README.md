@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovmf&theme=tokyonight)](https://github.com/joaovmf/github-readme-stats)
 
 
-### Um pouco sobre mim: 
+### Sobre mim 
 - Sou um advogado apaixonado por tecnologia, atualmente cursando análise e desenvolvimento de sistemas e trabalhando com diversas linguagens de programação.
 
 ### Minhas habilidades:
