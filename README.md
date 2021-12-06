@@ -1,4 +1,4 @@
-## Olá, seja bem vindo, eu sou o João! <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px" />
+## Olá, seja bem vindo! <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px" />
 
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovmf&show_icons=true&theme=tokyonight) 
 ###
